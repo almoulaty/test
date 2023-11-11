@@ -1,5 +1,5 @@
 {
-  "sendTrafic" : true,
+  "sendTrafic" : false,
   "SendtrafficImage" : "	https://github.com/almoulaty/test/blob/main/cover1.jpg?raw=true",
   "GameLink" : "https://play.google.com/store/apps/details?id=com.hadev.kimetsunoyaiba.demonslayerwallpapers"
 }
